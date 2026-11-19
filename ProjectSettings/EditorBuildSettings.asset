@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PLAY.unity
     guid: 6f3b17a79fbf0554d9515434a77b13f2
+  - enabled: 1
+    path: Assets/Scenes/LORE.unity
+    guid: 9602aad4c8c71fa439d573ed74ee382f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
